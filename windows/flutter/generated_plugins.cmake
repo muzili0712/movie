@@ -3,13 +3,19 @@
 #
 
 list(APPEND FLUTTER_PLUGIN_LIST
+  battery_plus
   bitsdojo_window_windows
   desktop_webview_window
+  fvp
   isar_flutter_libs
+  media_kit_libs_windows_video
+  media_kit_video
   protocol_handler_windows
+  screen_brightness_windows
   screen_retriever_windows
   share_plus
   url_launcher_windows
+  volume_controller
   window_manager
 )
 
